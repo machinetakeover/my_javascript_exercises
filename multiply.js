@@ -4,7 +4,6 @@ function multiply(number1, number2) {
 }
 
 
-multiply(2, 12)
+multiply(2, 22)
 
 
-console.log(multiply(2,12))
