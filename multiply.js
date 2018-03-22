@@ -5,3 +5,6 @@ function multiply(number1, number2) {
 
 
 multiply(2, 12)
+
+
+console.log(multiply(2,12))
