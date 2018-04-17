@@ -4,6 +4,6 @@ function multiply(number1, number2) {
 }
 
 
-multiply(2, 22)
+multipl(2, 22)
 
 
